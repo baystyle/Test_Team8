@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 hello team 8 
 my update ...
 555
@@ -6,3 +7,23 @@ I am your father
 fuck me eiei
 again and again
 kiki
+=======
+git init // start
+git status // check status
+config --global user.name "" // set name
+config --global user.email "" // set email
+git add <file> // add file to stage
+git reset <file>	// to untrack
+git commit -m "" //commit stage to respository
+git log // log
+git reset --hard <commit id> //restore
+git branch // view branch
+git brance develop // add 
+git brance --delete develop // dekete
+git checkout <branch name> 
+git merge <branch name>
+
+git remote add origin https://github.com/baystyle/MCash.git
+git push -u origin master
+git pull origin master
+>>>>>>> 954ef130d91990a47bb2f24f9d045e6c0cc80afd
