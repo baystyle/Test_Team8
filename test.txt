@@ -1,13 +1,4 @@
-<<<<<<< HEAD
-hello team 8 
-my update ...
-555
-test khwan
-I am your father
-fuck me eiei
-again and again
-kiki
-=======
+55555555555555555555555555555
 git init // start
 git status // check status
 config --global user.name "" // set name
