@@ -7,12 +7,20 @@ test khwan
 I am your father
 fuck me eiei
 again and again
+<<<<<<< HEAD
 OwO
+=======
+7777
+>>>>>>> 2441ef767fa503e4ed576cbde615439f2d604d30
 =======
 =======
 mamiew is calling team
 55555555555555555555555555555
+<<<<<<< HEAD
 >>>>>>> cb30661c6ece799be89f958d48b7e0ee2fae0d21
+=======
+>>>>>>> 6fd8bcff3c8c33a7b8e64d9b5ba571b25ba8b316
+>>>>>>> 2441ef767fa503e4ed576cbde615439f2d604d30
 git init // start
 git status // check status
 config --global user.name "" // set name
@@ -35,4 +43,8 @@ git pull origin master
 >>>>>>> 954ef130d91990a47bb2f24f9d045e6c0cc80afd
 =======
 
+<<<<<<< HEAD
 >>>>>>> cb30661c6ece799be89f958d48b7e0ee2fae0d21
+=======
+>>>>>>> 6fd8bcff3c8c33a7b8e64d9b5ba571b25ba8b316
+>>>>>>> 2441ef767fa503e4ed576cbde615439f2d604d30
